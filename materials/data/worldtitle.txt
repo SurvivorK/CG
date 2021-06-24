@@ -1,0 +1,3 @@
+2
+2 test1 ./materials/data/world2.txt
+1 10 ./materials/data/world1.txt
