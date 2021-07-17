@@ -1,0 +1,19 @@
+﻿  application.cpp
+  camera.cpp
+  model.cpp
+D:\computer graphics\assignments\base\model.cpp(49,66): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  object3d.cpp
+  shader.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  tiny_obj_loader.cc
+  main.cpp
+  shading_tutorial.cpp
+  正在生成代码...
+  glad.c
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  experiment5.vcxproj -> D:\computer graphics\assignments\x64\Debug\experiment5.exe
