@@ -8,123 +8,123 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug"/>
+				<Option working_dir="/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Project">
-				<Option output="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Project.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Project/fast">
-				<Option output="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Project.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project/fast"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug"/>
+				<Option working_dir="/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project">
+				<Option output="/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/stellaris/Documents/GitHub/CG/Project/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project/fast">
+				<Option output="/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/stellaris/Documents/GitHub/CG/Project/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/stellaris/Documents/GitHub/CG/Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include/Block.h">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/include/Block.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include/Entity.h">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/include/Entity.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include/Image.h">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/include/Image.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include/Player.h">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/include/Player.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include/Worlds.h">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/include/Worlds.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include/header.h">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/include/header.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/include/stb_image.h">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/include/stb_image.h">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/main.cpp">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/main.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Block.cpp">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/src/Block.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Entity.cpp">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/src/Entity.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Image.cpp">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/src/Image.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Player.cpp">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/src/Player.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Worlds.cpp">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/src/Worlds.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/header.cpp">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/src/header.cpp">
 			<Option target="Project"/>
 		</Unit>
-		<Unit filename="C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/CMakeLists.txt">
+		<Unit filename="/Users/stellaris/Documents/GitHub/CG/Project/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

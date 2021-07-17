@@ -102,39 +102,39 @@ intrin.h
 arm_neon.h
 -
 
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/main.cpp
+/Users/stellaris/Documents/GitHub/CG/Project/main.cpp
 header.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/header.h
+/Users/stellaris/Documents/GitHub/CG/Project/header.h
 Block.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/Block.h
+/Users/stellaris/Documents/GitHub/CG/Project/Block.h
 Entity.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/Entity.h
+/Users/stellaris/Documents/GitHub/CG/Project/Entity.h
 Worlds.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/Worlds.h
+/Users/stellaris/Documents/GitHub/CG/Project/Worlds.h
 
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Block.cpp
+/Users/stellaris/Documents/GitHub/CG/Project/src/Block.cpp
 Block.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Block.h
+/Users/stellaris/Documents/GitHub/CG/Project/src/Block.h
 
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Entity.cpp
+/Users/stellaris/Documents/GitHub/CG/Project/src/Entity.cpp
 Entity.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Entity.h
+/Users/stellaris/Documents/GitHub/CG/Project/src/Entity.h
 
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Image.cpp
+/Users/stellaris/Documents/GitHub/CG/Project/src/Image.cpp
 Image.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Image.h
+/Users/stellaris/Documents/GitHub/CG/Project/src/Image.h
 stb_image.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/stb_image.h
+/Users/stellaris/Documents/GitHub/CG/Project/src/stb_image.h
 
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Player.cpp
+/Users/stellaris/Documents/GitHub/CG/Project/src/Player.cpp
 Player.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Player.h
+/Users/stellaris/Documents/GitHub/CG/Project/src/Player.h
 
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Worlds.cpp
+/Users/stellaris/Documents/GitHub/CG/Project/src/Worlds.cpp
 Worlds.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/Worlds.h
+/Users/stellaris/Documents/GitHub/CG/Project/src/Worlds.h
 
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/header.cpp
+/Users/stellaris/Documents/GitHub/CG/Project/src/header.cpp
 header.h
-C:/Users/Stellaris/OneDrive/ZJU/3.5/CG/Project/src/header.h
+/Users/stellaris/Documents/GitHub/CG/Project/src/header.h
 

@@ -1,15 +1,13 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Project.dir/main.cpp.obj"
-  "CMakeFiles/Project.dir/src/Block.cpp.obj"
-  "CMakeFiles/Project.dir/src/Entity.cpp.obj"
-  "CMakeFiles/Project.dir/src/Image.cpp.obj"
-  "CMakeFiles/Project.dir/src/Player.cpp.obj"
-  "CMakeFiles/Project.dir/src/Worlds.cpp.obj"
-  "CMakeFiles/Project.dir/src/header.cpp.obj"
-  "Project.exe"
-  "Project.exe.manifest"
+  "CMakeFiles/Project.dir/main.cpp.o"
+  "CMakeFiles/Project.dir/src/Block.cpp.o"
+  "CMakeFiles/Project.dir/src/Entity.cpp.o"
+  "CMakeFiles/Project.dir/src/Image.cpp.o"
+  "CMakeFiles/Project.dir/src/Player.cpp.o"
+  "CMakeFiles/Project.dir/src/Worlds.cpp.o"
+  "CMakeFiles/Project.dir/src/header.cpp.o"
+  "Project"
   "Project.pdb"
-  "libProject.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
